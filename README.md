@@ -1,6 +1,5 @@
-
+PORTFOLIO
 
 npm run install # to install all dependencies
 
-npm run dev
-# Portfolio
+npm run dev # to run 
